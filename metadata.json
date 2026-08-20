@@ -1,0 +1,6 @@
+{
+  "name": "CREST COMMERCIAL",
+  "description": "Premium commercial real estate and logistics property broker in the SADC region.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
