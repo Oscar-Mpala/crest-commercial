@@ -8,7 +8,7 @@ export const mockProperties: Property[] = [
     type: 'Office',
     price: '$2,500,000',
     sqm: 4500,
-    image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=2070',
+    image: '/public/image2.webp',
     description: 'A state-of-the-art office park featuring modern glass architecture, high-speed fiber connectivity, and premium amenities tailored for corporate headquarters.',
   },
   {
@@ -28,7 +28,7 @@ export const mockProperties: Property[] = [
     type: 'Industrial',
     price: '$1,850,000',
     sqm: 8500,
-    image: 'https://images.unsplash.com/photo-1565514020179-026b92b84bb6?auto=format&fit=crop&q=80&w=2070',
+    image: '/public/image1.jpeg',
     description: 'Heavy industrial zoning complex equipped with high-clearance manufacturing bays and robust power infrastructure.',
   },
   {
